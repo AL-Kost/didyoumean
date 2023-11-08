@@ -2,6 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![codecov](https://codecov.io/gh/AL-Kost/didyoumean/branch/main/graph/badge.svg)](https://codecov.io/gh/AL-Kost/didyoumean)
+[![Go Reference](https://pkg.go.dev/badge/github.com/AL-Kost/didyoumean.svg)](https://pkg.go.dev/github.com/AL-Kost/didyoumean)
 [![Go Report Card](https://goreportcard.com/badge/github.com/AL-Kost/didyoumean)](https://goreportcard.com/report/github.com/AL-Kost/didyoumean)
 
 
