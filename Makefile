@@ -21,4 +21,4 @@ fmt:
 
 .PHONY: test
 test:
-	go test -v -coverprofile="coverage.txt" -covermode=atomic -race -count 1 -timeout 20s ./...
+	go test -v -coverprofile="coverage.txt" -covermode=atomic -race -count 1 -timeout 20s $(go list ./... | grep -v /examples/)
